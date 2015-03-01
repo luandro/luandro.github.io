@@ -100,7 +100,9 @@ body, html
 	display: inline-block;
 	float: left;
 }
-
+.card .card-action a {
+	color: #7ED321;
+}
 .contact .col
 {
 	margin-bottom: 24px;
